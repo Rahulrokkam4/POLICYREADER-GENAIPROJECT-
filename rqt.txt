@@ -1,0 +1,11 @@
+langchain
+streamlit==1.22.0
+unstructured
+faiss-cpu
+OpenAI
+python-dotenv
+langchain_community
+tiktoken
+groq
+langchain_groq
+transformers sentence-transformers
