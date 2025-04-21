@@ -47,7 +47,7 @@ Imagine you want to analyze a new public privacy policy from a government websit
 
 Here’s a quick preview of the **PolicyReader** Streamlit app:
 
-![App Demo](assets/demo.png)
+![App Demo](Demo.png)
 
 
 ---
