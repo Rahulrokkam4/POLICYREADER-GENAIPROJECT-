@@ -43,9 +43,12 @@ Imagine you want to analyze a new public privacy policy from a government websit
 
 ---
 
-## 📸 Demo Screenshot *(optional)*
+## 📸 Demo Screenshot
 
-> *(Add a screenshot or Streamlit gif here to showcase the app UI and output)*
+Here’s a quick preview of the **PolicyReader** Streamlit app:
+
+![App Demo](assets/demo.png)
+
 
 ---
 
